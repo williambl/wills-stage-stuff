@@ -5,7 +5,7 @@
 	"compatibilityLevel": "JAVA_17",
 	"mixins": [],
 	"client": [
-		"TitleScreenMixin"
+      "com.williambl.wills_stage_stuff.mixin.TitleScreenMixin"
 	],
 	"injectors": {
 		"defaultRequire": 1
